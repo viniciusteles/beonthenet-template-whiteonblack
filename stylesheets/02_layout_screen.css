@@ -288,12 +288,14 @@ body.videos #thumbnails img {
 /* Big picture, big video */
 #big_picture, #big_video {
 	width:                  54.5em;
-	min-height:             33.25em;
+	min-height:             300px;
 	height:                 auto !important;
-	height:                 33.25em;
+	height:                 300px;
 	margin-bottom:          1em;
 	position:               relative;
-	margin-top: 50px;
+	margin-top:             50px;
+  border-width:           1px;
+  border-style:           solid;
 }
 
 #big_picture a, #big_video a {
