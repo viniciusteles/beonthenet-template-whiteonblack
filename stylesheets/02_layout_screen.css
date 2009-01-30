@@ -287,10 +287,7 @@ body.videos #thumbnails img {
 
 /* Big picture, big video */
 #big_picture, #big_video {
-	width:                  54.5em;
-	min-height:             300px;
-	height:                 auto !important;
-	height:                 300px;
+  width:                  100%;
 	margin-bottom:          1em;
 	position:               relative;
 	margin-top:             50px;
@@ -300,26 +297,24 @@ body.videos #thumbnails img {
 
 #big_picture a, #big_video a {
 	width:                  4.75em;
-    position:               absolute;
-	top: -40px;
+  position:               absolute;
+	top:                    -40px;
 }
 
 #big_picture #previous  {
-	right:	183px;
-	
+	right:                  183px;
 }
 
 #big_video #previous {
-	right:	100px;
-
+	right:                  100px;
 }
 
 #big_picture #next {
-	right:	-5px;
+	right:                  -5px;
 }
 
 #big_video #next {
-	right:	40px;
+	right:                  40px;
 }
 
 #big_picture a span, #big_video a span {
@@ -337,8 +332,8 @@ body.videos #thumbnails img {
 	width:                  13%;
 	padding:                3px;
 	position:               absolute;
-	right:                   35px;
-	top: -44px;
+  top:                    -44px;
+	right:                  35px;
 }
 
 #big_video object p {
