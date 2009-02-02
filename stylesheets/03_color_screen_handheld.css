@@ -492,15 +492,11 @@ button:hover {
 
 /* Footer */
 #footer {
-	background:             #111 url(../images/footer_background.gif) top repeat-x;
-	margin-bottom:          0;
-	padding-bottom:			50px;
-	
+	background:             #111 url(../images/footer_background.gif) top repeat-x;	
 }
 
 #footer p, #footer strong, #footer h6 {
-	color:					#666;
-	margin-bottom:          .5em;
+	color:					        #666;
 }
 
 /* /Footer */

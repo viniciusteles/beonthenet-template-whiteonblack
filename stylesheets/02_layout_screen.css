@@ -691,11 +691,11 @@ body > #facebox {
 
 /* Footer */
 #footer {
-  padding:                1.25em 3.9em;
+  padding:                1.25em 3.9em 50px 3.9px;
 	margin-bottom:          20em;
 }
 
-#footer p {
+#footer p, #footer strong, #footer h6 {
 	margin-bottom:          .5em;
 }
 /* /Footer */
