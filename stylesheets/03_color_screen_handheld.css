@@ -254,6 +254,7 @@ body.videos #thumbnails h3 a {
 /* Big picture, big video */
 #big_picture, #big_video {
   border-color:           #333;
+  background:             #333;
 }
 
 #big_picture a span, #big_video span {
