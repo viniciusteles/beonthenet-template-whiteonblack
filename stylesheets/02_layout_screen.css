@@ -295,10 +295,11 @@ body.videos #thumbnails img {
 #big_picture, #big_video {
   width:                  100%;
 	margin-bottom:          1em;
-	position:               relative;
 	margin-top:             50px;
   border-width:           1px;
   border-style:           solid;
+	position:               relative;
+  z-index:                5;
 }
 
 #big_picture a, #big_video a {
