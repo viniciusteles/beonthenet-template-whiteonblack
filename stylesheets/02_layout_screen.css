@@ -196,7 +196,7 @@ body.videos #thumbnails img {
 
 
 /* Summary */
-#summary, #about_us, #data_sheet, .error_hints, #picture_description {
+#summary, #about_us, #data_sheet, body.application #main_content ul, #picture_description {
 	padding:                .65em 7.5em;
 	border:                 1px solid;
   margin-bottom:          10px;
