@@ -611,10 +611,6 @@ body.application #main_content h2 {
   margin:                 0 0 2em 0;
 }
 
-body.application #main_content {
-	margin-top:             .5em;
-}
-
 #valid_search_suggestions {
 	padding-left:           23em;
 	margin-top:             1.2em;
