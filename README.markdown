@@ -1,21 +1,63 @@
-# Be on the Net Estático
+# Introdução
 
-**Be on the Net Estático** é um projeto que contém arquivos HTML estáticos gerados pelo [Be on the Net][1]. Ele tem como objetivo atender aos designers que se interessarem em implementar templates para o [Be on the Net][1], uma plataforma que está sendo desenvolvida pela [Improve It][3].
+Este é um [template][0] para o serviço [Be on the Net][]. É baseado no [Orange on Black][o], criado originalmente por [Stênio Figueiredo][1], web designer, que vive em Recife, PE. Foi modificado por [Leandro Mello][lm], de modo a usar a cor verde, ao invés do laranja. Disponibilizado em 08/03/2009.
 
-## Mapa da Mina
+# Ficha Técnica
 
-Para compreender como utilizar este projeto, leia os seguintes arquivos:
+Código no [Be on the Net][]: **template-steniofigueiredo-04-2008**.  
+Autor: [Stênio Figueiredo][1] - [contatos][2].  
+Localização: Recife, PE, Brasil.  
+Modificado por: [Leandro Mello][lm].  
+Licença: [Creative Commons Atribuição 2.5][cc].  
 
-* intrucoes.html - Contém informações preliminares e instruções básicas para os designers que quiserem criar templates para o [Be on the Net][1].
+## Fotos
 
-* faq.text - Contém perguntas mais frequentes e suas respectivas respostas. Se você tiver novas dúvidas, por favor, [entre em contato][2].
+Autoria: [Patricia Figueira][p].  
+Localização: Niterói, RJ, Brasil.  
+Licença: Copyright. Usado com permissão.  
+Fonte: [Patricia Figueira][p].  
+
+## Vídeos
+
+Autoria: [Eclethica Produtora][e].  
+Localização: Niterói, RJ, Brasil.  
+Licença: Copyright. Usado com permissão.  
+Fonte: [Eclethica Produtora][e].
+
+# Utilização
+
+Você é livre para utilizar este template e criar outros derivados dele para utilização no [Be on the Net][]. Para isso, basta respeitar os termos da licença [Creative Commons Atribuição 2.5][cc], que basicamente determinam que você deve citar o autor original do template em qualquer trabalho que se utilize ou derive dele. 
+
+Você tem permissão para utilizar este template com finalidades comerciais, bem como não-comerciais. 
+
+# Mapa da Mina
+
+Para compreender como utilizar este projeto, leia os seguintes arquivos no diretório **info**:
+
+* intrucoes.html - Contém informações preliminares e instruções básicas para os designers que quiserem criar templates para o [Be on the Net][10].
+
+* faq.text - Contém perguntas mais frequentes e suas respectivas respostas. Se você tiver novas dúvidas, por favor, [entre em contato][20].
 
 * release-notes.txt - Contém uma descrição das modificações que vêm sendo feitas no projeto. Leia para compreender o que mudou desde a última vez que você atualizou os arquivos.
 
 * fontes-de-material-creative-commons.txt - Contém uma lista de sites que costumam conter material disponibilizado como Creative Commons Attribution. 
 
-* modelo-do-contrato.pdf - Este é o modelo do contrato de compra de templates que a Improve It utiliza com os designers que produzem templates para o Be on the Net. É recomendável que você leia este modelo para conhecer as exatas condições em que as compras de templates são feitas.
+Mais instruções sobre como criar um novo template para o [Be on the Net][] podem ser obtidas no projeto [beonthenet-estatico][be]. Se preferir, faça um [download dos arquivos][d].
 
-[1]:    http://beonthe.net
-[2]:    http://www.improveit.com.br/br/contato
-[3]:    http://www.improveit.com.br
+[Be on the Net]: http://beonthe.net "Be on the Net"
+[Improve It]: http://improveit.com.br "Improve It"
+[cc]: http://creativecommons.org/licenses/by/2.5/br/ "Creative Commons Atribuição 2.5"
+[p]:  http://www.patriciafigueira.com.br "Patricia Figueira"
+[e]:  http://www.eclethicaprodutora.com.br "Eclethica Produtora"
+[be]: http://github.com/viniciusteles/beonthenet-estatico/tree/master
+[d]: http://github.com/viniciusteles/beonthenet-estatico/zipball/master
+[lm]: http://www.improveit.com.br/empresa/leandro
+
+[o]: http://beonthe.net/galerias/templates/galeria/72157610768205333/1
+[0]: http://beonthe.net/galerias/templates/galeria/72157614986510382/1
+[1]: http://syst3n.wordpress.com/
+[2]: http://syst3n.wordpress.com/contato
+
+[10]:    http://beonthe.net
+[20]:    http://www.improveit.com.br/br/contato
+[30]:    http://www.improveit.com.br
