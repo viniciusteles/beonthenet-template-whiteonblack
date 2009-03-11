@@ -496,29 +496,6 @@ body#search #search_result_count label {
 /* /Selection */
 
 
-/* Who */
-.quem_somos #main_content p {
-  margin:                 1em 0;
-}
-
-.quem_somos dt {
-  float:                  left;
-  margin-right:           .5em;
-  padding:					0 3px 0 4px;
-}
-
-.quem_somos dd {
-  margin:                 .25em 0 1em 2.5em;
-}
-
-.quem_somos #main_content cite {
-  display:                block;
-	padding:                200px 0 100px 0;
-	margin-bottom:          -8em;
-}
-/* /Who */
-
-
 /* Forms (contact, checkout, search) */
 label {
 	display:                block;
@@ -701,80 +678,99 @@ body > #facebox {
 /* /Footer */
 
 
+/* Text */
+.text #main_content {
+  padding-right:          170px;
+  padding-left:           170px;
+}
 
-/* Instructions */
-body.instructions #toc {
+.text #main_content p {
+  margin:                 1em 0;
+}
+
+.text #toc {
   float:                  left;
   padding:                .75em .75em .75em 1.5em;
   border:                 1px solid;
   margin:                 0 2em 1em 0 !important;
 }
 
-.instructions #main_content p {
+.text #main_content p {
   margin:                 1em 0;
 }
 
-.instructions #main_content h2 {
+.text #main_content h1 {
+  margin-right:           -108px;
+  margin-left:            -108px;
+}
+
+.text #main_content h2 {
   clear:                  left;
   padding:                1.5em 0 1em 0;
 }
 
-.instructions #main_content h3 {
+.text #main_content h3 {
   padding:                1em 0 .75em 0;
 }
 
-.instructions #main_content dl, 
-.instructions #main_content ul {
-  margin:                 1.6em 6em;
+.text #main_content h4 {
+  margin-top:             -.8em;
 }
 
-.instructions #main_content dd {
-  margin:                 0 0 1em 2.5em;
+.text #main_content dl, 
+.text #main_content ul {
+  margin:                 1.6em 4em;
 }
 
-.instructions #main_content ul li {
+.text dt {
+  float:                  left;
+  margin-right:           .5em;
+  padding:					      0 3px 0 4px;
+}
+
+.text #main_content dd {
+  margin:                 .25em 0 1em 2.5em;
+}
+
+.text #main_content ul li {
   margin-bottom:          1em;
 }
 
-.instructions #main_content ul ul {
+.text #main_content ul ul {
   margin:                 0 1em;
 }
 
-code {
-  padding:                .3em .5em;
-}
-
-.instructions table {
+.text table {
   border-collapse:        collapse;
   margin:                 auto;
 }
 
-.instructions table * {
+.text table * {
   border:                 1px solid;
 }
 
-.instructions th {
+.text th {
   padding:                .5em 1.5em;
 }
 
-.instructions td {
+.text td {
   padding:                .5em 1.5em;
 }
 
-.instructions td span {
+.text td span {
   display:                block;
   border:                 none;
   margin:                 0 1.5em;
 }
 
-.instructions td a, 
-.instructions td code {
+.text td a, 
+.text td code {
   border:                 none;
   margin:                 0 -1em;
   white-space:            nowrap;
 }
 
-.instructions td code {
+.text td code {
   display:                block;
   margin-top:             .75em;
 }
@@ -786,7 +782,7 @@ pre {
   overflow:               auto;
 }
 
-.instructions #main_content h4 {
-  margin-top:             -.8em;
+code {
+  padding:                .3em .5em;
 }
-/* /Instructions */
+/* /Text */

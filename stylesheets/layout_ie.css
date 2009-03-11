@@ -54,7 +54,7 @@ body#selection h2#selection_size label {
 }
 
 body.videos#index #main_content {
-	float: none;
+/*  float: none;*/
 }
 
 
@@ -71,6 +71,9 @@ ul#thumbnails li div span.ie {
 	display:                inline-block;
 	vertical-align:         middle;
 	height:                 100%;
+}
+ul#thumbnails li div img {
+	vertical-align:         middle;
 }
 
 

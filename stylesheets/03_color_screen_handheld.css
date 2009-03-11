@@ -370,19 +370,6 @@ body#selection #selection_size label {
 /* /Selection */
 
 
-/* Who */
-.quem_somos dt, 
-.quem_somos #main_content strong {
-	color:	#fff;
-  	background-color:                  #222;
-}
-
-.quem_somos cite {
-	background:             transparent url(../images/signature_patfig.gif) no-repeat right top;
-}
-/* /Who */
-
-
 /* Forms (contact, checkout, search) */
 form label {
 	background: none;
@@ -504,36 +491,35 @@ body#timeout #main_content h2 {
 
 
 
-/* Instructions */
-body.instructions #toc {
-  background:             #EFE3C3;
-  border-color:           #E0C99B;
+/* Text */
+.text dt, 
+.text #main_content strong {
+	color:                  #FFF;
+  background-color:       #222;
 }
 
-body.instructions #main_content dt {
-  color:                  #999;
+.text dt a, .text dt a:hover {
+  color:                  #FFF;
 }
 
 code {
-  color:                  #111;
-  background:             #EFE3C3; 
+  color:                  #EEE;
 }
 
-.instructions table * {
-  border-color:           #E0C99B;
+.text table * {
+  border-color:           #222;
 }
 
-.instructions th {
-  color:                  #999;
-  background:             #EFE3C3;
+.text th {
+  color:                  #FFF;
+  background:             #444;
 }
 
-.instructions td span {
-  color:                  #BAA984;
+.text td span {
+  color:                  #555  ;
 }
 
 pre {
-  background:             #EFE3C3;
-  border-color:           #E0C99B;
+  border-color:           #222;
 }
-/* /Instructions */
+/* /Text */
