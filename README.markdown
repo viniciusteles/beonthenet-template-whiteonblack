@@ -1,6 +1,6 @@
 # Introdução
 
-Este é um [template][0] para o serviço [Be on the Net][]. É baseado no [Orange on Black][o], criado originalmente por [Stênio Figueiredo][1], web designer, que vive em Recife, PE. Foi modificado por [Leandro Mello][lm], de modo a usar a cor verde, ao invés do laranja. Disponibilizado em 08/03/2009.
+Este é um [template][0] para o serviço [Be on the Net][]. É baseado no [Orange on Black][o], criado originalmente por [Stênio Figueiredo][1], web designer, que vive em Recife, PE. Foi modificado por [Leandro Mello][lm], de modo a usar a cor branca, ao invés do laranja. Disponibilizado em 08/03/2009.
 
 # Ficha Técnica
 
