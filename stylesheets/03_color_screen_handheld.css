@@ -7,6 +7,10 @@ html {
   background:             #222;
 }
 
+a:link {
+  color:                  #BBB;
+}
+
 a:visited {
   color:                  #777;
 }
