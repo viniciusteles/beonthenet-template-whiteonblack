@@ -168,7 +168,8 @@ body.videos ul#thumbnails li {
   color:                  #333;
 }
 
-body.videos #thumbnails h3 a {
+body.videos #thumbnails h2 a, 
+body.videos #thumbnails h3 a   {
 	color:                  #FFF;
 }
 /* /Thumbnails */
