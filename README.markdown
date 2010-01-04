@@ -55,8 +55,8 @@ Mais instruções sobre como criar um novo template para o [Be on the Net][] pod
 
 [o]: http://beonthe.net/galerias/templates/galeria/72157610768205333/1
 [0]: http://beonthe.net/galerias/templates/galeria/72157614986510382/1
-[1]: http://steniomelo.com.br
-[2]: http://steniomelo.com.br/blog/contato
+[1]: http://steniomelo.com
+[2]: http://steniomelo.com/contato
 
 [10]:    http://beonthe.net
 [20]:    http://www.improveit.com.br/br/contato
