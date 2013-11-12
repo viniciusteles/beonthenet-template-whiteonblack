@@ -295,30 +295,6 @@ body.videos #thumbnails h3 a   {
 
 
 /* Big picture, big video */
-#big_picture, #big_video {
-  border-color:           #333;
-  background:             #333;
-}
-
-#big_picture a span, #big_video span {
-	background:             transparent url(../images/arrow_previous.gif) no-repeat top right;
-}
-#big_picture a#previous:hover span, #big_video a#previous:hover span {
-	background-image:       url(../images/arrow_previous_hover.gif);
-}
-#big_picture a#previous:active span, #big_video a#previous:active span {
-	background-image:       url(../images/arrow_previous_active.gif);
-}
-#big_picture #next span, #big_video #next span {
-	background:             transparent url(../images/arrow_next.gif) no-repeat top left;
-}
-#big_picture a#next:hover span, #big_video a#next:hover span {
-	background-image:       url(../images/arrow_next_hover.gif);
-}
-#big_picture a#next:active span, #big_video a#next:active span {
-	background-image:       url(../images/arrow_next_active.gif);
-}
-
 #big_picture img {
   color:                  #ccc;
 	border-color:           #555;
